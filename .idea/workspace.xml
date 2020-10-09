@@ -37,13 +37,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/kuang" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test4">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.ProductConsumer.A" />
+  <component name="RunManager" selected="Application.ReadWriteLockDemo">
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.add.CountDownLatchDemo" />
       <module name="JUCStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang.ProductConsumer.*" />
+          <option name="PATTERN" value="com.kuang.add.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.lock8.Test1" />
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.add.CyclicBarrierDemo" />
       <module name="JUCStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang.lock8.*" />
+          <option name="PATTERN" value="com.kuang.add.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.lock8.Test2" />
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.rw.ReadWriteLockDemo" />
       <module name="JUCStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang.lock8.*" />
+          <option name="PATTERN" value="com.kuang.rw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.lock8.Test3" />
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.add.SemaphoreDemo" />
       <module name="JUCStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang.lock8.*" />
+          <option name="PATTERN" value="com.kuang.add.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.SemaphoreDemo" />
+        <item itemvalue="Application.CyclicBarrierDemo" />
+        <item itemvalue="Application.CountDownLatchDemo" />
         <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601985214852</updated>
       <workItem from="1601985218113" duration="4840000" />
-      <workItem from="1602159818608" duration="7081000" />
+      <workItem from="1602159818608" duration="8615000" />
     </task>
     <servers />
   </component>
@@ -136,22 +136,22 @@
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="687" y="125" key="#Project_Structure/0.23.1792.1042@0.23.1792.1042" timestamp="1601985570622" />
-    <state width="972" height="178" key="GridCell.Tab.0.bottom" timestamp="1602163484123">
+    <state width="972" height="215" key="GridCell.Tab.0.bottom" timestamp="1602252878190">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="972" height="178" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1602163484123" />
-    <state width="972" height="178" key="GridCell.Tab.0.center" timestamp="1602163484121">
+    <state width="972" height="215" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878190" />
+    <state width="972" height="215" key="GridCell.Tab.0.center" timestamp="1602252878189">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="972" height="178" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1602163484121" />
-    <state width="972" height="178" key="GridCell.Tab.0.left" timestamp="1602163484121">
+    <state width="972" height="215" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878189" />
+    <state width="972" height="215" key="GridCell.Tab.0.left" timestamp="1602252878188">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="972" height="178" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1602163484121" />
-    <state width="972" height="178" key="GridCell.Tab.0.right" timestamp="1602163484122">
+    <state width="972" height="215" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878188" />
+    <state width="972" height="215" key="GridCell.Tab.0.right" timestamp="1602252878189">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="972" height="178" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1602163484122" />
+    <state width="972" height="215" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878189" />
     <state width="972" height="351" key="GridCell.Tab.1.bottom" timestamp="1602162986489">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
