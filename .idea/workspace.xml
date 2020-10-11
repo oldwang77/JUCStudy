@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69100f07-efda-4e69-a49e-f95073ac2be1" name="Default Changelist" comment="" />
+    <list default="true" id="d52800f5-2bdd-4745-92f1-879ddd5e780e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/kuang/demo1/SaleTicketDemo01.java" root0="SKIP_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectId" id="1iVGC5qchzFVt2orPGW2ASle9Ax" />
+  <component name="ProjectId" id="1ii96L6u3pEzUnEJ5jBXB4D7XFw" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -26,105 +16,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kuang" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.27931035" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/kuang" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.ReadWriteLockDemo">
-    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.add.CountDownLatchDemo" />
-      <module name="JUCStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang.add.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.add.CyclicBarrierDemo" />
-      <module name="JUCStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang.add.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.rw.ReadWriteLockDemo" />
-      <module name="JUCStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang.rw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.add.SemaphoreDemo" />
-      <module name="JUCStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang.add.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang.lock8.Test4" />
-      <module name="JUCStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang.lock8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ReadWriteLockDemo" />
-        <item itemvalue="Application.SemaphoreDemo" />
-        <item itemvalue="Application.CyclicBarrierDemo" />
-        <item itemvalue="Application.CountDownLatchDemo" />
-        <item itemvalue="Application.Test4" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="69100f07-efda-4e69-a49e-f95073ac2be1" name="Default Changelist" comment="" />
-      <created>1601985214852</created>
+      <changelist id="d52800f5-2bdd-4745-92f1-879ddd5e780e" name="Default Changelist" comment="" />
+      <created>1602379368853</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601985214852</updated>
-      <workItem from="1601985218113" duration="4840000" />
-      <workItem from="1602159818608" duration="8615000" />
+      <updated>1602379368853</updated>
+      <workItem from="1602379370881" duration="62000" />
+      <workItem from="1602379441851" duration="2932000" />
     </task>
     <servers />
   </component>
@@ -132,45 +39,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="687" y="125" key="#Project_Structure" timestamp="1601985570622">
+    <state x="731" y="125" key="SettingsEditor" timestamp="1602379525984">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state x="687" y="125" key="#Project_Structure/0.23.1792.1042@0.23.1792.1042" timestamp="1601985570622" />
-    <state width="972" height="215" key="GridCell.Tab.0.bottom" timestamp="1602252878190">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="215" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878190" />
-    <state width="972" height="215" key="GridCell.Tab.0.center" timestamp="1602252878189">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="215" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878189" />
-    <state width="972" height="215" key="GridCell.Tab.0.left" timestamp="1602252878188">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="215" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878188" />
-    <state width="972" height="215" key="GridCell.Tab.0.right" timestamp="1602252878189">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="215" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1602252878189" />
-    <state width="972" height="351" key="GridCell.Tab.1.bottom" timestamp="1602162986489">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="351" key="GridCell.Tab.1.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1602162986489" />
-    <state width="972" height="351" key="GridCell.Tab.1.center" timestamp="1602162986489">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="351" key="GridCell.Tab.1.center/0.23.1792.1042@0.23.1792.1042" timestamp="1602162986489" />
-    <state width="972" height="351" key="GridCell.Tab.1.left" timestamp="1602162986488">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="351" key="GridCell.Tab.1.left/0.23.1792.1042@0.23.1792.1042" timestamp="1602162986488" />
-    <state width="972" height="351" key="GridCell.Tab.1.right" timestamp="1602162986489">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state width="972" height="351" key="GridCell.Tab.1.right/0.23.1792.1042@0.23.1792.1042" timestamp="1602162986489" />
-    <state x="701" y="182" key="SettingsEditor" timestamp="1601985596587">
-      <screen x="0" y="23" width="1792" height="1042" />
-    </state>
-    <state x="701" y="182" key="SettingsEditor/0.23.1792.1042@0.23.1792.1042" timestamp="1601985596587" />
+    <state x="731" y="125" key="SettingsEditor/0.23.1792.1042@0.23.1792.1042" timestamp="1602379525984" />
   </component>
 </project>
